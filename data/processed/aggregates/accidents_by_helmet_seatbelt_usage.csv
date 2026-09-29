@@ -1,0 +1,3 @@
+helmet_seatbelt_used,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+False,135,115.0,157.0,70.0,227.0,48,37,104
+True,105,56.0,114.0,89.0,203.0,4,34,92

@@ -1,0 +1,6 @@
+road_type,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+National Highway,75,69.0,84.0,38.0,122.0,20,22,61
+City Road,56,31.0,58.0,43.0,101.0,10,15,46
+State Highway,55,30.0,77.0,41.0,118.0,13,18,46
+Expressway,32,27.0,29.0,18.0,47.0,4,12,26
+Rural Road,22,14.0,23.0,19.0,42.0,5,4,17

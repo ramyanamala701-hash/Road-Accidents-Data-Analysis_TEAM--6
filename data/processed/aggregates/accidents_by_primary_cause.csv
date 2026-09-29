@@ -1,0 +1,9 @@
+primary_cause,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+Overspeeding,74,54.0,91.0,52.0,143.0,2,27,74
+Drunk Driving,46,58.0,44.0,18.0,62.0,46,14,31
+Weather Visibility,29,9.0,38.0,17.0,55.0,0,8,19
+Wrong-Side Driving,28,12.0,27.0,16.0,43.0,1,8,24
+Fatigue / Sleep,18,7.0,22.0,15.0,37.0,1,3,13
+Mobile Phone Use,17,13.0,20.0,16.0,36.0,1,4,15
+Red Light / Signal Jump,17,10.0,18.0,14.0,32.0,1,4,12
+Pothole / Road Defect,11,8.0,11.0,11.0,22.0,0,3,8

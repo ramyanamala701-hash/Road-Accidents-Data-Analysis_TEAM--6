@@ -1,0 +1,4 @@
+lighting,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+Daylight,135,94.0,154.0,90.0,244.0,28,39,107
+Dark / No Lights,69,49.0,77.0,43.0,120.0,15,20,60
+Street Lights On,36,28.0,40.0,26.0,66.0,9,12,29

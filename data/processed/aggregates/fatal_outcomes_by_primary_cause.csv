@@ -1,0 +1,9 @@
+primary_cause,accident_count,fatal_accident_count,fatalities
+Drunk Driving,46,40,58.0
+Overspeeding,74,37,54.0
+Mobile Phone Use,17,9,13.0
+Wrong-Side Driving,28,9,12.0
+Red Light / Signal Jump,17,6,10.0
+Weather Visibility,29,8,9.0
+Pothole / Road Defect,11,5,8.0
+Fatigue / Sleep,18,4,7.0

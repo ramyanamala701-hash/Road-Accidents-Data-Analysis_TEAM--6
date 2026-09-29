@@ -1,0 +1,5 @@
+severity,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+Fatal,118,171.0,119.0,51.0,170.0,44,36,91
+Grievous Injury,75,0.0,152.0,34.0,186.0,5,19,66
+Minor Injury,42,0.0,0.0,74.0,74.0,2,12,34
+Property Damage Only,5,0.0,0.0,0.0,0.0,1,4,5

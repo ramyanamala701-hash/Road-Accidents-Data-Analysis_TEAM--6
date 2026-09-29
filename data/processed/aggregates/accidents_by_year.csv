@@ -1,0 +1,5 @@
+year,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+2021,62,46.0,61.0,43.0,104.0,16,16,48
+2022,57,40.0,68.0,45.0,113.0,8,13,50
+2023,49,28.0,66.0,30.0,96.0,9,15,37
+2024,72,57.0,76.0,41.0,117.0,19,27,61

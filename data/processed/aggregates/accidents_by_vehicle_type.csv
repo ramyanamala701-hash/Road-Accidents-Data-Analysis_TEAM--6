@@ -1,0 +1,7 @@
+vehicle_type,accident_count,fatalities,severe_injuries,minor_injuries,nonfatal_injuries,alcohol_involved_accidents,pedestrian_involved_accidents,above_speed_limit_records
+Two-Wheeler,81,73.0,86.0,53.0,139.0,18,15,65
+Truck / Heavy Goods,49,38.0,57.0,32.0,89.0,12,11,35
+Car / SUV,41,31.0,52.0,23.0,75.0,12,10,36
+Auto-Rickshaw,27,7.0,29.0,21.0,50.0,2,10,24
+Bicycle / Pedestrian,23,9.0,24.0,18.0,42.0,2,23,20
+Bus,19,13.0,23.0,12.0,35.0,6,2,16
